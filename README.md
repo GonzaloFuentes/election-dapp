@@ -26,3 +26,4 @@ Once you've added Metamask plugin to your browser:
 `$ npm run dev`
 ## Run tests
 `$ truffle test` 
+-
